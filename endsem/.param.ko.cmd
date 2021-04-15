@@ -1,1 +1,0 @@
-cmd_/home/swethamohan/endsem/param.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/swethamohan/endsem/param.ko /home/swethamohan/endsem/param.o /home/swethamohan/endsem/param.mod.o;  true

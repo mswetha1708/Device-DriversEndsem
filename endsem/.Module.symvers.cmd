@@ -1,1 +1,0 @@
-cmd_/home/swethamohan/endsem/Module.symvers := sed 's/ko$$/o/' /home/swethamohan/endsem/modules.order | scripts/mod/modpost -m -a   -o /home/swethamohan/endsem/Module.symvers -e -i Module.symvers   -T -
