@@ -4,7 +4,7 @@
 (b) Write a module which prints your name in log.
 
 The commands that are to be run are
-make
+$echo make
 sudo insmod name.ko
 sudo dmesg | tail -2 
 The above command will display last 2 lines.
