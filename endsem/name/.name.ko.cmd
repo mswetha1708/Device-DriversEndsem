@@ -1,0 +1,1 @@
+cmd_/home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/name.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id=sha1  -T ./scripts/module-common.lds -o /home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/name.ko /home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/name.o /home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/name.mod.o;  true

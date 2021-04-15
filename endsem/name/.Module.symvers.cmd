@@ -1,0 +1,1 @@
+cmd_/home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/Module.symvers := sed 's/ko$$/o/' /home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/modules.order | scripts/mod/modpost -m -a   -o /home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/Module.symvers -e -i Module.symvers   -T -

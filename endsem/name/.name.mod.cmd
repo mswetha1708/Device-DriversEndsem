@@ -1,0 +1,1 @@
+cmd_/home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/name.mod := { echo  /home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/name.o;  echo; } > /home/swethamohan/Desktop/Device-DriversEndsem/endsem/name/name.mod
